@@ -2,3 +2,4 @@ jupyterlab
 jupyter_contrib_nbextensions
 pandas
 scikit-learn
+matplotlib
